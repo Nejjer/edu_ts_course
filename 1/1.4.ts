@@ -13,4 +13,5 @@ function reverseWords(str: string): string {
 const str: string = "Это пример!";
 const reversedStr: string = reverseWords(str);
 console.log(reversedStr);
-//Честно, я написал это с помощью бота. Прикольно
+//Честно, я написал это с помощью бота(https://www.typingmind.com). Прикольно
+//Он в первый раз помог с написанием кода, обычно он тупой
